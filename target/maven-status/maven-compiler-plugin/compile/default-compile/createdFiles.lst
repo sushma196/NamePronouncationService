@@ -11,3 +11,4 @@ com\wellsafrgo\exception\ResourceNotFoundException.class
 com\wellsafrgo\exception\ErrorDetails.class
 com\wellsafrgo\model\NamePronounciationRecord.class
 com\wellsafrgo\exception\DatbaseconnectivityException.class
+com\wellsfargo\response\NameSearchResponse.class
